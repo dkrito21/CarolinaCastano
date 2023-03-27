@@ -1,4 +1,6 @@
-p{
+p {
     background-color: #cccccc;
     text-align: center;
+    border: 1 solid slateblue;
+    border-radius: 5px;
 }
